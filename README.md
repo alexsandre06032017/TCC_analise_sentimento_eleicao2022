@@ -1,0 +1,1 @@
+# TCC_analise_sentimento_eleicao2022
