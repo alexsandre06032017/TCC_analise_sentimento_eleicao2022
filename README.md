@@ -9,6 +9,6 @@ Base de dados referente as eleições presidenciais de 2022
 * (PDT) - Ciro Gomes
 * (MDB) - Simone Nassar Tebet
 
-** 21/08/2022 a 27/08/2022 esse periodo é referente a um dia antes da primeira entrevista ao jornal nascional (Globo) e um dia após a última.
+** 21/08/2022 a 27/08/2022: esse periodo é referente a um dia antes da primeira entrevista ao jornal nascional (Globo) e um dia após a última.
 
 ** Essas entrevistas são chamadas de sabatinas
